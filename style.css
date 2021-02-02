@@ -28,4 +28,5 @@ h1 {
   font-family: "Numans", sans-serif;
   color: #2da56b;
   font-size: clamp(3.5rem, calc(1.5rem + 3.5vw), 4rem);
+  letter-spacing: -2px;
 }
